@@ -6,7 +6,9 @@ Beginner/Mid level:
 Currently learning:
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?logo=python&logoSize=auto">
 # 📀 | Softwares I use
-<img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-lightgreen?logo=androidstudio&logoColor=white&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-brightgreen?logo=androidstudio&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&logoColor=black">
+
 
 
 
