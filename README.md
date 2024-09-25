@@ -1,5 +1,5 @@
 # 👨‍💻 | Who am I
-I'm a beginner developer currently learning Python. I'm familiar with Unity game engine and C#. I have a LeetCode profile, linked here.
+I'm a beginner developer currently learning Python. I'm familiar with Unity game engine and C#. I have a LeetCode profile, linked here --> https://leetcode.com/u/Nuggets10/.
 # 🔠 | Languages I use
 Beginner/Mid level:
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto"> 
